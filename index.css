@@ -254,4 +254,8 @@ follow{
     footer{
         font-size: 1rem;
     }
+    footer img{
+        width: 27px;
+        height: 30px;
+    }
 }
